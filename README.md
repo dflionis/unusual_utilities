@@ -6,7 +6,7 @@ This is a catch-all repository for "unusual" utilities that I wrote to solve an 
 
 Do you wish to keep an eye on the latest sports news while you're at work? Do you feel some sense of shame with you open espn.com and your 23" monitor starts to look like a circus? Do you ever navigate to the latest headline of interest and a video on autoplay starts to blast through your speakers? Do you wish you could get API-like access to sports news text without paying for access? Do you want your sports headlines to look like you're monitoring a server or working at a Bloomberg Terminal? If so, then maybe the Roto Scraper is for you. This simple shell script scrapes the HTML of one the better sports news sites and outputs it to your terminal as a simple autorefreshing feed of text.
 
-![Alt text](/roto_scraper/roto_scraper.png?raw=true)
+![Alt text](/roto_scraper/images/roto_scraper.png?raw=true)
 
 ### Requirements
 
