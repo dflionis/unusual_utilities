@@ -18,7 +18,6 @@ If you're on a Linux or macOS variant, you're probably all set. If you're on Win
 
 ```bash
 cd your-install-directory/unusual-utilies/roto_scraper
-chmod +x roto_scraper.sh # TODO: Verify if Github is preserving the executable bit.
 ./roto_scraper.sh
 ```
 
@@ -42,8 +41,8 @@ Yes, but I would not recommend setting it at a higher rate than once per minute 
 
 #### Will this script always work?
 
-Likely not as it is dependent on the structure of the underlying site's HTML. I will try to update it if it breaks in the future.
+Probably not--it is dependent on the structure of the underlying site's HTML. I will try to update it if it breaks in the future but buyer beware.
 
 #### Your bash code indentation practices do not adhere to the preferred style? Can I point that out?
 
-Yes please do. I am a Rubyist by nature and very big into style and conventions. I did not do a ton of research into shell script conventions. If you see something that irks you, please call it out. This is how many of us learn.
+Yes please do. I am a Rubyist by nature and very big into style and convention. I did not do a ton of research into shell script conventions before putting this together. If you see something that irks you, please call it out. This is how many of us learn.
